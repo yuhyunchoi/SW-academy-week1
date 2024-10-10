@@ -1,0 +1,10 @@
+- 버블 소트 -> 낼 아침 연습
+
+
+팰린드롬
+
+소인수분해 (for문 또는 while문 반복문, recursive문 사용)
+
+하노이탑, 피보나치 (recursive문)
+
+group study : mamoization?
